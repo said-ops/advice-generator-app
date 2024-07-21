@@ -109,6 +109,9 @@ button:hover{
     .advice{
         font-size: 1.5rem;
     }
+    .divider{
+        background-image: url(./images/pattern-divider-mobile.svg);
+    }
 }
 /*
 #225763
