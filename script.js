@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () =>{
         //getting response
         const response = await fetch(apiUrl);
         const data = await response.json();
-        console.log(data);
+        // console.log(data);
          
         try {
             
