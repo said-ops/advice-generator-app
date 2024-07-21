@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () =>{
     const dice = document.getElementById('dice');
     //random colors
     const colorsBg = ['#225763','#41d8bf','#2f89b3','#e3c4a8'];
-    const mainColors = ['#3b50b2','#4592af','#f6f5f5','#f8aa27','#fac55b'];
+    const mainColors = ['#3b50b2','#4592af','hsl(150, 100%, 66%)','#f8aa27','#fac55b'];
     //root element                
     const root = document.documentElement;
     //background color
